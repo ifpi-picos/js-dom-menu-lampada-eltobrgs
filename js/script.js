@@ -1,5 +1,5 @@
 // Menu mobile
-function toggleNav(){
+function expand(){
   const nav =  document.querySelector('nav');
   nav.classList.toggle('mobile');
 }
